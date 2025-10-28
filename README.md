@@ -1,6 +1,6 @@
 <!-- 💫 Muhammad Faheem — Cinematic GitHub Profile README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=800&color=B91C1C&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Muhammad+Faheem!;Full+Stack+Developer;Next.js+%7C+React+%7C+NestJS+Expert;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=800&color=00b2df&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Muhammad+Faheem!;Full+Stack+Developer;Next.js+%7C+React+%7C+NestJS+Expert;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
