@@ -69,7 +69,7 @@
 ### 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-faheem" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-faheem-aa42833a6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhammadfaheem@gmail.com">
