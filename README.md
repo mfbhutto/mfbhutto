@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/muhammad-faheem-aa42833a6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:muhammadfaheem@gmail.com">
+  <a href="mailto:faheembhutto774@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://muhammadfaheem.vercel.app/" target="_blank">
